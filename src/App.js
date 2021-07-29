@@ -39,12 +39,12 @@ function App() {
           <div class="row">
             <div class="col-md-9">
 
-              <article>
+              <article class="conjunto">
                 <div class="post-507 post type-post status-publish format-standard has-post-thumbnail hentry category-bem-estar category-sono-perfeito category-casa-e-decoracao tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" title="Saiba quais peças usar para montar um jogo de cama completo">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/02/bed-bedroom-blanket-clean-545012-1140x641.jpg" title="Saiba quais peças usar para montar um jogo de cama completo" alt="Saiba quais peças usar para montar um jogo de cama completo" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/02/bed-bedroom-blanket-clean-545012-1140x641.jpg" class="imagens" title="Saiba quais peças usar para montar um jogo de cama completo" alt="Saiba quais peças usar para montar um jogo de cama completo" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -77,12 +77,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+              <article class="conjunto">
                 <div class="post-407 post type-post status-publish format-standard has-post-thumbnail hentry category-receber-bem tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/30/lista-de-casamento-como-escolher-a-melhor-loja-de-presentes-e-utilidades-domesticas/" title="Lista de casamento. Como escolher a melhor loja de presentes e utilidades domésticas.">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/red-rose-flowers-bouquet-on-white-surface-beside-spring-book-1410226-1140x641.jpg" title="Lista de casamento. Como escolher a melhor loja de presentes e utilidades domésticas." alt="Lista de casamento. Como escolher a melhor loja de presentes e utilidades domésticas." />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/red-rose-flowers-bouquet-on-white-surface-beside-spring-book-1410226-1140x641.jpg"  class="imagens" title="Lista de casamento. Como escolher a melhor loja de presentes e utilidades domésticas." alt="Lista de casamento. Como escolher a melhor loja de presentes e utilidades domésticas." />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -115,12 +115,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+                <article class="conjunto">
                 <div class="post-380 post type-post status-publish format-standard has-post-thumbnail hentry category-casa-e-decoracao category-receber-bem tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval tag-sala-de-estar">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/29/7-cuidados-ao-decorar-seu-ambiente-com-cortinas-e-tapetes/" title="7 cuidados ao decorar ambientes com cortinas e tapetes">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Cool-blue-coastal-living-room-920x9202-1-915x641.jpg" title="7 cuidados ao decorar ambientes com cortinas e tapetes" alt="7 cuidados ao decorar ambientes com cortinas e tapetes" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Cool-blue-coastal-living-room-920x9202-1-915x641.jpg" class="imagens" title="7 cuidados ao decorar ambientes com cortinas e tapetes" alt="7 cuidados ao decorar ambientes com cortinas e tapetes" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -153,12 +153,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+                <article class="conjunto">
                 <div class="post-349 post type-post status-publish format-standard has-post-thumbnail hentry category-bem-estar category-sono-perfeito tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/28/transforme-sua-maneira-de-dormir-em-uma-incrivel-experiencia-sensorial/" title="Transforme sua maneira de dormir em uma incrível experiência sensorial">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/flowers-on-book-near-window-545032-1140x641.jpg" title="Transforme sua maneira de dormir em uma incrível experiência sensorial" alt="Transforme sua maneira de dormir em uma incrível experiência sensorial" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/flowers-on-book-near-window-545032-1140x641.jpg" class="imagens" title="Transforme sua maneira de dormir em uma incrível experiência sensorial" alt="Transforme sua maneira de dormir em uma incrível experiência sensorial" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -191,12 +191,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+                <article class="conjunto">
                 <div class="post-339 post type-post status-publish format-standard has-post-thumbnail hentry category-bem-estar category-sono-perfeito category-casa-e-decoracao tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/28/cama-mesa-e-banho-7-dicas-para-o-melhor-uso-neste-verao/" title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/cama-mesa-e-banho.-7-dicas-para-o-melhor-uso-neste-verão-sultan.com_.br_-1140x641.jpg" title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" alt="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/cama-mesa-e-banho.-7-dicas-para-o-melhor-uso-neste-verão-sultan.com_.br_-1140x641.jpg" class="imagens" title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" alt="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -229,12 +229,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+                <article class="conjunto">
                 <div class="post-332 post type-post status-publish format-standard has-post-thumbnail hentry category-bem-estar category-casa-e-decoracao tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval tag-quarto-infantil">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/28/como-a-decoracao-pode-estimular-a-criatividade-das-criancas/" title="Como a decoração pode estimular a criatividade das crianças">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Como-a-decoração-pode-estimular-a-criatividade-das-crianças-sultan.com_.br_-1140x641.jpg" title="Como a decoração pode estimular a criatividade das crianças" alt="Como a decoração pode estimular a criatividade das crianças" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Como-a-decoração-pode-estimular-a-criatividade-das-crianças-sultan.com_.br_-1140x641.jpg" class="imagens" title="Como a decoração pode estimular a criatividade das crianças" alt="Como a decoração pode estimular a criatividade das crianças" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -267,12 +267,12 @@ function App() {
                     </div>
                   </div>
                 </div></article>
-              <article>
+                <article class="conjunto">
                 <div class="post-315 post type-post status-publish format-standard has-post-thumbnail hentry category-bem-estar category-casa-e-decoracao tag-cama-mesa-e-banho tag-sono-perfeito tag-casa-e-decoracao tag-lista-de-casamento tag-casal tag-roupa-de-cama tag-decoracao tag-bem-estar tag-quarto tag-casamento tag-enxoval">
                   <div class="news-item row text-center">
                     <div class="news-thumb col-md-12">
                       <a href="https://sultan.com.br/blog/2020/01/28/como-deixar-seu-lar-mais-aconchegante/" title="Como deixar seu lar mais aconchegante">
-                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/como-deixar-seu-lar-mais-aconchegante-sultan.com_.br_-1140x641.jpg" title="Como deixar seu lar mais aconchegante" alt="Como deixar seu lar mais aconchegante" />
+                        <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/como-deixar-seu-lar-mais-aconchegante-sultan.com_.br_-1140x641.jpg" class="imagens" title="Como deixar seu lar mais aconchegante" alt="Como deixar seu lar mais aconchegante" />
                       </a>
                     </div>
                     <div class="news-text-wrap col-md-12">
@@ -310,13 +310,13 @@ function App() {
 
             <aside id="sidebar" class="col-md-3">
               <div id="search-4" class="widget widget_search"><div class="widget-title"><h3>Buscar</h3></div></div><div id="categories-4" class="widget widget_categories"><div class="widget-title"><h3>Todos os Temas</h3></div>		<ul>
-                <li class="cat-item cat-item-1"><a href="https://sultan.com.br/blog/category/bem-estar/" >BEM-ESTAR</a>
+                <li class="cat-item cat-item-1"><a href="https://sultan.com.br/blog/category/bem-estar/" class="bem-estar" >BEM-ESTAR</a>
                 </li>
-                <li class="cat-item cat-item-15"><a href="https://sultan.com.br/blog/category/sono-perfeito/" >SONO PERFEITO</a>
+                <li class="cat-item cat-item-15"><a href="https://sultan.com.br/blog/category/sono-perfeito/" class="sono">SONO PERFEITO</a>
                 </li>
-                <li class="cat-item cat-item-14"><a href="https://sultan.com.br/blog/category/casa-e-decoracao/" >CASA E DECORAÇÃO</a>
+                <li class="cat-item cat-item-14"><a href="https://sultan.com.br/blog/category/casa-e-decoracao/" class="casa">CASA E DECORAÇÃO</a>
                 </li>
-                <li class="cat-item cat-item-13"><a href="https://sultan.com.br/blog/category/receber-bem/" >RECEBER BEM</a>
+                <li class="cat-item cat-item-13"><a href="https://sultan.com.br/blog/category/receber-bem/" class="receber">RECEBER BEM</a>
                 </li>
               </ul>
               </div><div id="custom_html-5" class="widget_text widget widget_custom_html">
@@ -327,11 +327,11 @@ function App() {
                         Receba o conteúdo do blog Sultan por e-mail
                       </h2>
                       <div class="centro">
-                        <a href="inscreva-se/">
+                        <a href="https://www.sultan.com.br/App/Images/icones/carta.png" class="carta">teste</a>
                           <button>
                           Inscreva-se
                         </button>
-                        </a>
+                       
 
                       </div>
 

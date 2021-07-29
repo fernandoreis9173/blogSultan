@@ -1,3 +1,139 @@
+.col-md-9{
+  display: flex;
+  align-items: stretch;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.conjunto{
+  background-color: #F1EFF5;
+    float: none;
+    clear: none;
+    margin: 10px;
+    margin-bottom: 30px;
+    width: 48%;
+    min-width: 48%;
+    margin: 15px 0.5% 1% 0.5%;
+}
+
+.imagens{
+  padding: 0px;
+    width: 100%;
+}
+#sidebar{
+  display: inline-block;
+    max-width: 100%;
+}
+#search-4{
+  background-color: #ECECEC;
+  border-radius: 14px;
+  padding: 20px;
+}
+.widget-title{
+  text-align: left;
+    padding: 0;
+    font-size: 20px;
+}
+
+.widget-title h3 {
+  background: transparent;
+  padding: 0;
+  color: #674F95;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.widget {
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  margin-bottom: 15px;
+}
+.widget-title {
+  text-align: left;
+  padding: 0;
+  font-size: 20px;
+}
+
+.widget-title h3 {
+  background: transparent;
+  padding: 0;
+  color: #674F95;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.widget ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.widget ul li {
+  margin: 4px 0px 0px;
+  padding: 0px 0px 4px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+.widget ul li:last-child {
+  border-bottom: none;
+}
+.cat-item {
+  background-color: #ECECEC;
+  text-align: left;
+  border-radius: 14px;
+}
+.cat-item a {
+  color: #64167B;
+  font-weight: bold;
+  display: block;
+  padding: 5px;
+  padding-left: 50px;
+  font-size: 19px;
+}
+.widget-title {
+  font-size: 18px;
+  position: relative;
+  width: 100%;
+  clear: both;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  padding: 0 15px;
+}
+
+.bem-estar{
+  background-image: url(https://sultan.com.br/App/Images/icones/coracao.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    padding-left: 60px;
+}
+.sono{
+  background-image: url(https://sultan.com.br/App/Images/icones/sono.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    padding-left: 60px;
+}
+.casa{
+  background-image: url(https://sultan.com.br/App/Images/icones/casa.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    padding-left: 60px;
+}
+.receber{
+  background-image: url(https://sultan.com.br/App/Images/icones/mesa.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    padding-left: 60px;
+}
+
 .wds_slider_0 video::-webkit-media-controls-panel {
   display: none!important;
   -webkit-appearance: none;
@@ -26,6 +162,25 @@
   width: 20%;
   height: 20%;
 }
+.newsletter {
+  border-radius: 14px;
+  background-color: #ECECEC;
+  padding: 20px 30px;
+}
+.centro {
+  text-align: center;
+}
+.carta{
+  background-image: url(https://www.sultan.com.br/App/Images/icones/carta.png);
+}
+
+
+
+
+
+
+
+
 #wds_container1_0 #wds_container2_0 {
   margin: 0px 0;
   text-align: center;
@@ -823,5 +978,5 @@ bottom: 0;
   width: 1662px;
 }
 .wds_loading{
-  
+
 }
