@@ -1,0 +1,827 @@
+.wds_slider_0 video::-webkit-media-controls-panel {
+  display: none!important;
+  -webkit-appearance: none;
+}
+.wds_slider_0 video::--webkit-media-controls-play-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+.wds_slider_0 video::-webkit-media-controls-start-playback-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+.wds_bigplay_0,
+.wds_slideshow_image_0,
+.wds_slideshow_video_0 {
+  display: block;
+}
+.wds_bulframe_0 {
+  display: none;
+  background-image: url('');
+  margin: 0px;
+  position: absolute;
+  z-index: 3;
+  -webkit-transition: left 1s, right 1s;
+  transition: left 1s, right 1s;
+  width: 20%;
+  height: 20%;
+}
+#wds_container1_0 #wds_container2_0 {
+  margin: 0px 0;
+  text-align: center;
+  visibility: hidden;
+position: relative; z-index: 1;      }
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0,
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 {
+  background-color: rgba(0, 0, 0, 0.00);
+  border-width: 0px;
+  border-style: none;
+  border-color: #FFFFFF;
+  border-collapse: collapse;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+        max-width: 800px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 {
+  width: 100%;
+height: 100%;
+  float: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  vertical-align: middle;
+}
+
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 video {
+  padding: 0 !important;
+  margin: 0 !important;
+  vertical-align: middle;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_container_0 {
+  display: /*table*/block;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+}
+      @media only screen and (min-width: 0px) and (max-width: 320px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 20px;
+    height: 20px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 16px;
+    width: 16px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 12px;
+    margin: 2px;
+            width: 12px;
+    height: 12px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 20px;
+    height: 20px;
+    width: 20px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 20px;
+    font-size: 20px;
+    width: 20px;
+  }
+}
+      @media only screen and (min-width: 321px) and (max-width: 480px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 30px;
+    height: 30px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 22px;
+    width: 22px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 18px;
+    margin: 2px;
+            width: 18px;
+    height: 18px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 30px;
+    height: 30px;
+    width: 30px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 30px;
+    font-size: 30px;
+    width: 30px;
+  }
+}
+      @media only screen and (min-width: 481px) and (max-width: 640px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 641px) and (max-width: 768px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 769px) and (max-width: 800px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 801px) and (max-width: 1024px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 1025px) and (max-width: 1366px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 1367px) and (max-width: 1824px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      @media only screen and (min-width: 1825px) and (max-width: 3000px) {
+  .wds_bigplay_0,
+  .wds_bigplay_layer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.2s ease-out;
+    -ms-transition: background-image 0.2s ease-out;
+    -moz-transition: background-image 0.2s ease-out;
+    -webkit-transition: background-image 0.2s ease-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+  }
+  .wds_bigplay_0:hover,
+  .wds_bigplay_layer:hover {
+    background: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+    height: 26px;
+    width: 26px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+    font-size: 20px;
+    margin: 3px;
+            width: 20px;
+    height: 20px;
+          }
+  #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+  }
+  #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
+  #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
+    height: 40px;
+    font-size: 40px;
+    width: 40px;
+  }
+}
+      #wds_container1_0 #wds_container2_0 .wds_slideshow_video_0 {
+  padding: 0 !important;
+  margin: 0 !important;
+  float: none !important;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {
+  color: #FFFFFF;
+  cursor: pointer;
+  position: relative;
+  z-index: 13;
+  width: inherit;
+  height: inherit;
+  font-size: inherit;
+}
+#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0:hover {
+  color: #FFFFFF;
+  cursor: pointer;
+}
+      #wds_container1_0 #wds_container2_0 .wds_left-ico_0,
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {
+  background-color: rgba(255, 255, 255, 0.00);
+  border-radius: 20px;
+  border: 0px none #FFFFFF;
+  border-collapse: separate;
+  color: #FFFFFF;
+  left: 0;
+  top: 0;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  line-height: 0;
+  width: inherit;
+  height: inherit;
+  font-size: inherit;
+  position: absolute;
+}
+#wds_container1_0 #wds_container2_0 .wds_left-ico_0 {
+  left: -4000px;
+}
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {
+  left: 4000px;
+}
+      #wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {
+  opacity: 0;
+  filter: "Alpha(opacity=0)";
+}
+#wds_container1_0 #wds_container2_0 .wds_left-ico_0:hover,
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0:hover {
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+/* Filmstrip*/
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_container_0 {
+  background-color: #000000 !important;
+  display: block;
+  height: 0%;
+  position: absolute;
+  width: 100%;
+  z-index: 10105;
+none: 0;
+  overflow: hidden;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_0 {
+  overflow: hidden;
+          position: absolute;
+  height: 100%;
+  width: 0%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnails_0 {
+  height: 100%;
+left: 0px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_0 {
+  position: relative;
+  background: none;
+  float: left;
+  height: 100%;
+  padding: 0 0 0 0px;
+  width: 0%;
+  overflow: hidden;
+        cursor: pointer;
+      }
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_0 :active{
+        cursor: inherit;
+      }
+#wds_container1_0 #wds_container2_0 #wds_filmstrip_thumbnail_0_0 {
+margin-left: 0;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_thumb_active_0 div {
+  opacity: 1;
+  filter: Alpha(opacity=100);
+  border: 0px none #FFFFFF;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_thumb_deactive_0 {
+  opacity: 0.50;
+  filter: Alpha(opacity=50);
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_img_0 {
+  display: block;
+  opacity: 1;
+  filter: Alpha(opacity=100);
+  padding: 0 !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0,
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 {
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+  display: table;
+  vertical-align: middle;
+width: 20px;
+  z-index: 10000;
+  position: absolute;
+height: 100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0 {
+left: 0;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 {
+right: 0;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0 i,
+#wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 i {
+  color: #fff;
+  display: table-cell;
+  font-size: 30px;
+  vertical-align: middle;
+  opacity: 0;
+  filter: Alpha(opacity=0);
+}
+#wds_container1_0 #wds_container2_0 .wds_none_selectable_0 {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#wds_container1_0 #wds_container2_0 .wds_slide_container_0 {
+  display: table-cell;
+  margin: 0 auto;
+  position: absolute;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  cursor: inherit;
+  cursor: inherit;
+  cursor: inherit;
+}
+#wds_container1_0 #wds_container2_0 .wds_slide_container_0:active {
+  cursor: inherit;
+  cursor: inherit;
+  cursor: inherit;
+}
+#wds_container1_0 #wds_container2_0 .wds_slide_bg_0 {
+  margin: 0 auto;
+  width: /*inherit*/100%;
+  height: /*inherit*/100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slider_0 {
+  height: /*inherit*/100%;
+  width: /*inherit*/100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun_0 {
+  width: /*inherit*/100%;
+  height: /*inherit*/100%;
+  display: table-cell;
+  filter: Alpha(opacity=100);
+  opacity: 1;
+  position: absolute;
+  vertical-align: middle;
+  z-index: 2;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_second_spun_0 {
+  width: /*inherit*/100%;
+  height: /*inherit*/100%;
+  display: table-cell;
+  filter: Alpha(opacity=0);
+  opacity: 0;
+  position: absolute;
+  vertical-align: middle;
+  z-index: 1;
+}
+#wds_container1_0 #wds_container2_0 .wds_grid_0 {
+  display: none;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_gridlet_0 {
+  opacity: 1;
+  filter: Alpha(opacity=100);
+  position: absolute;
+}
+/* Dots.*/
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {
+  opacity: 1;
+  filter: "Alpha(opacity=100)";
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+bottom: 0;
+  /*z-index: 17;*/
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
+  left: 0px;
+  font-size: 0;
+  margin: 0 auto;
+  position: relative;
+  z-index: 999;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
+  display: inline-block;
+  position: relative;
+  color: #FFFFFF;
+  cursor: pointer;
+  z-index: 17;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_active_0 {
+  color: #FFFFFF;
+  opacity: 1;
+  filter: Alpha(opacity=100);
+      }
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_deactive_0 {
+      }
+      #wds_container1_0 #wds_container2_0 .wds_slide_container_0 {
+  height: /*inherit*/100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun1_0 {
+  display: table;
+  width: /*inherit*/100%;
+  height: /*inherit*/100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun2_0 {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  height: /*inherit*/100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_video_layer_frame_0 {
+  max-height: 100%;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+#wds_container1_0 #wds_container2_0 .wds_video_hide0 {
+  width: 100%;
+  height: 100%;
+  position:absolute;
+}
+#wds_container1_0 #wds_container2_0 .wds_slider_car_image0 {
+  overflow: hidden;
+}
+#wds_container1_0 .wds_loading_img {
+  background-image: url('https://sultan.com.br/blog/wp-content/plugins/slider-wd/images/loading/0.gif');
+}
+      #wds_container1_0 #wds_container2_0 #wds_image_id_0_6 .wds_slideshow_image_0 {
+            background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+                                          }			
+#wds_container1_0 #wds_container2_0 #wds_image_id_0_6 .wds_slideshow_image_0 > video {
+  background-size: cover;
+}
+
+#wds_container1_0{
+  width: 1662px;
+}
+.wds_loading{
+  
+}
