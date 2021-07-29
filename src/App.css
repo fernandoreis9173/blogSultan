@@ -173,8 +173,37 @@
 .carta{
   background-image: url(https://www.sultan.com.br/App/Images/icones/carta.png);
 }
+.popular-news-section, .minhaDiv {
+  display: flex;
+  flex-direction: column;
+}
+.minhaDiv {
+  padding: 20px 0;
+  background-color: #ECECEC;
+  border-radius: 14px;
+}
 
-
+.popular-news-section, .minhaDiv {
+  display: flex;
+  flex-direction: column;
+}
+.popular-news-section .news-item {
+  margin: 0;
+  background: #F1EFF5;
+  position: relative;
+}
+.news-item.layout-two .news-thumb {
+  margin-bottom: 5px;
+  /* margin-right: 15px; */
+  padding-right: 0;
+  max-width: 126px;
+  float: left;
+  margin-right: 15px;
+}
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
 
 
 
