@@ -1,3 +1,6 @@
+#amarracao{
+  display: flex;
+}
 .col-md-9{
   display: flex;
   align-items: stretch;
@@ -134,6 +137,14 @@
     padding-left: 60px;
 }
 
+.musica{
+  background-image: url(https://www.sultan.com.br/App/Images/icones/musica.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    padding-left: 60px;
+}
+
 .wds_slider_0 video::-webkit-media-controls-panel {
   display: none!important;
   -webkit-appearance: none;
@@ -205,10 +216,72 @@ a {
   text-decoration: none;
 }
 
+#searchsubmit{
+  background-image: url(https://sultan.com.br/App/Images/icones/search.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left 10px center;
+    padding-left: 0px;
+    width: 40px;
+}
+#search-4 input {
+  border: 0;
+  border-radius: 6px;
+}
+
+#searchsubmit {
+  background-color: #674F95 !important;
+  border: 0;
+}
+.pesquisar{
+  display: flex;
+    height: 35px;
+}
+
+.read-more-button{
+  text-align: center;
+}
+.read-more-button a {
+  background-color: #674F95 !important;
+  border: 0;
+  border-radius: 40px;
+  color: #fff;
+  margin-bottom: 30px;
+  padding: 5px 50px;
+  font-weight: bold;
+}
 
 
+.read-more-button a {
+  padding: 11px 50px;
+  margin-top: 20px;
+  border: 1px solid;
+  position: relative;
+  display: inline-block;
+}
 
 
+.texto {
+  color: #000;
+  font-weight: bold;
+  font-size: 24px;
+}
+#carregar{
+  width: 100%;
+  text-align: center;
+}
+#mais{
+  width: 87%; 
+}
+#rodapelist{
+  text-align: center;
+}
+
+#sonoperfeito{
+  border: 0 !important;
+  background-color: #ececec !important;
+  color: #64167B !important;
+} 
 
 #wds_container1_0 #wds_container2_0 {
   margin: 0px 0;
