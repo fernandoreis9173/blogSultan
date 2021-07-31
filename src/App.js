@@ -58,7 +58,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/" ></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/" ></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -87,7 +87,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/receber-bem/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/receber-bem/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/30/lista-de-casamento-como-escolher-a-melhor-loja-de-presentes-e-utilidades-domesticas/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -116,7 +116,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/casa-e-decoracao/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/casa-e-decoracao/"></a></div>			<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/29/7-cuidados-ao-decorar-seu-ambiente-com-cortinas-e-tapetes/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -145,7 +145,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/transforme-sua-maneira-de-dormir-em-uma-incrivel-experiencia-sensorial/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -174,7 +174,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/cama-mesa-e-banho-7-dicas-para-o-melhor-uso-neste-verao/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -203,7 +203,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-a-decoracao-pode-estimular-a-criatividade-das-criancas/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -232,7 +232,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-deixar-seu-lar-mais-aconchegante/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -261,7 +261,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-deixar-seu-lar-mais-aconchegante/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -290,7 +290,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-deixar-seu-lar-mais-aconchegante/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>
@@ -319,7 +319,7 @@ function App() {
                   </a>
                 </div>
                 <div class="news-text-wrap col-md-12">
-                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>				<h2>
+                  <div class="cat-links"><a href="https://sultan.com.br/blog/category/bem-estar/"></a></div>			<h2 class="lorem">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-deixar-seu-lar-mais-aconchegante/" class="texto">
                       Lorem ipsum sodales orci aliquam, enim vestibulum					</a>
                   </h2>

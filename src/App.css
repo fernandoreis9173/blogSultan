@@ -45,6 +45,7 @@
   font-weight: bold;
   font-style: normal;
   font-size: 20px;
+  width: 36%;
 }
 
 .widget {
@@ -259,12 +260,16 @@ a {
   position: relative;
   display: inline-block;
 }
-
+.lorem{
+  width: 73%;
+    text-align: center;
+    margin: 0 auto;
+}
 
 .texto {
   color: #000;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 30px;
 }
 #carregar{
   width: 100%;
