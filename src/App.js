@@ -10,40 +10,19 @@ import sofa_tapete from './assets/img/sofa_tapete.jpeg';
 import cama_marrom from './assets/img/cama_marrom.jpeg';
 import travesseiros_floridos from './assets/img/travesseiros_floridos.jpeg';
 import travesseiro_preto_e_branco from './assets/img/travesseiro_preto_e_branco.jpeg';
+import trave_preto from './assets/img/trave_preto.png';
+import mesa_cadeira from './assets/img/mesa_cadeira.png';
+import cobertor_efeito from './assets/img/cobertor_efeito.png';
+import cortina_cinza from './assets/img/cortina_cinza.png';
+import tapete_preto from './assets/img/tapete_preto.png';
 
 function App() {
   return (
     <div class="page-area">
-      <div class="homepage-widget-area">
-        <div id="wdslider-5" class="widget wdslider">
-
-          <div id="wds_container1_0" class="wds_slider_cont" data-wds="0">
-            <div class="wds_loading" >
-              <div class="wds_loading_img"></div>
-            </div>
-            <div id="wds_container2_0" >
-              <div class="wds_slideshow_image_wrap_0">
-                <div id="wds_slideshow_image_container_0" class="wds_slideshow_image_container_0">
-
-                  <div class="wds_slide_container_0" id="wds_slide_container_0">
-                    <div class="wds_slide_bg_0">
-                      <div class="wds_slider_0">
-                        <span class="wds_slider_car_image0 wds_slideshow_image_spun_0" id="wds_image_id_0_6" data-image-id="6" data-image-key="0">
-                          <span class="wds_slideshow_image_spun1_0">
-                            <span class="wds_slideshow_image_spun2_0">
-                              <span data-img-id="wds_slideshow_image_0" class="wds_slideshow_image_0" onclick="" data-image-id="6" data-image-key="0">
-                              </span>
-                            </span>
-                          </span>
-                        </span>
-                        <input type="hidden" id="wds_current_image_key_0" value="0" />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+      <div class="homepage">
+        <div class="widget">
+      
+          
         </div></div>
 
       <div class="row" id="amarracao">
@@ -64,7 +43,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                      Leia Mais					</a>
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
                         <li class="cat-item cat-item-15" id="rodapelist"><a href="https://www.sultan.com.br/App/Images/icones/mesa.png" class="receber" id="sonoperfeito">MESA E FESTA</a>
@@ -93,7 +72,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                     <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -122,7 +101,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -151,7 +130,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -180,7 +159,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -209,7 +188,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -238,7 +217,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -267,7 +246,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -296,7 +275,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais						</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -325,7 +304,7 @@ function App() {
                   </h2>
                   <div class="read-more-button">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                      Ler mais					</a>
+                    Leia Mais					</a>
 
                       <div id="categories-4" class="widget widget_categories" id="rodapeimg">
                       <ul id="perfeito">
@@ -356,7 +335,7 @@ function App() {
           </div>
           </div>
           <div id="categories-4" class="widget widget_categories">
-            <div class="widget-title"><h3>Todos os Temas</h3>
+            <div class="widget-title"><h3 id="temas">Todos os Temas</h3>
             </div>
             <ul>
               <li class="cat-item cat-item-1"><a href="https://sultan.com.br/blog/category/bem-estar/" class="bem-estar" >BEM-ESTAR</a>
@@ -373,13 +352,14 @@ function App() {
           </div><div id="custom_html-5" class="widget_text widget widget_custom_html">
             <div class="textwidget custom-html-widget">
               <div class="newsletter">
-
-                <h2>
+              <div class="centro">
+		<img class="carta" src="https://www.sultan.com.br/App/Images/icones/carta.png"/>
+	
+                <h2 class="email">
                   Receba o conteúdo do blog Sultan por e-mail
                 </h2>
-                <div class="centro">
-                  <a href="https://www.sultan.com.br/App/Images/icones/carta.png" class="carta">teste</a>
-                  <button>
+                
+                  <button class="inscreva">
                     Inscreva-se
                   </button>
 
@@ -389,28 +369,22 @@ function App() {
               </div></div></div><div id="envo-blog-popular-posts-3" class="widget popular-posts widget_popular_posts">
             <div class="popular-news-section">
 
-              <div class="widget-title"><h3>Posts mais vistos</h3></div><div class="minhaDiv">
+              <div class="widget-title"><h3 id="maisvistos">Posts mais vistos</h3></div><div class="minhaDiv">
                 <div class="news-item layout-two">
                   <div class="news-thumb ">
                     <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" title="Saiba quais peças usar para montar um jogo de cama completo">
-                      <img src="https://sultan.com.br/blog/wp-content/uploads/2020/02/bed-bedroom-blanket-clean-545012-120x90.jpg" title="Saiba quais peças usar para montar um jogo de cama completo" alt="Saiba quais peças usar para montar um jogo de cama completo" />
+                      <img src={trave_preto} title="Saiba quais peças usar para montar um jogo de cama completo" alt="Saiba quais peças usar para montar um jogo de cama completo" />
                     </a>
                   </div>
                   <div class="news-text-wrap">
-                    <h2>
-                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/">
-                        Saiba quais peças usar para montar um jogo de cama completo											</a>
+                    <h2 class="texto-mais-visto">
+                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="text-visto">
+                      Duis ac tellus et risus vulputate vehicle lobortis risus a elit <br/>
+                      <a href="https://sultan.com.br/blog/category/bem-estar/" class="bem-estar" id="bem" >BEM-ESTAR</a>
+                     
+              	</a>
+                     
                     </h2>
-                    <a href="https://sultan.com.br/blog/category/bem-estar/" class="minhaCat">BEM-ESTAR</a>
-
-
-                    <span class="posted-date">
-                      20 de fevereiro de 2020	</span>
-                    <span class="comments-meta">
-                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/#respond" rel="nofollow" title="ComentarSaiba quais peças usar para montar um jogo de cama completo">
-                        0				</a>
-                      <i class="fa fa-comments-o"></i>
-                    </span>
                   </div>
                 </div>
 
@@ -418,24 +392,18 @@ function App() {
                 <div class="news-item layout-two">
                   <div class="news-thumb ">
                     <a href="https://sultan.com.br/blog/2020/01/28/como-a-decoracao-pode-estimular-a-criatividade-das-criancas/" title="Como a decoração pode estimular a criatividade das crianças">
-                      <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Como-a-decoração-pode-estimular-a-criatividade-das-crianças-sultan.com_.br_-120x90.jpg" title="Como a decoração pode estimular a criatividade das crianças" alt="Como a decoração pode estimular a criatividade das crianças" />
+                      <img src={mesa_cadeira} title="Como a decoração pode estimular a criatividade das crianças" alt="Como a decoração pode estimular a criatividade das crianças" />
                     </a>
                   </div>
                   <div class="news-text-wrap">
-                    <h2>
-                      <a href="https://sultan.com.br/blog/2020/01/28/como-a-decoracao-pode-estimular-a-criatividade-das-criancas/">
-                        Como a decoração pode estimular a criatividade das crianças											</a>
+                    <h2 class="texto-mais-visto">
+                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="text-visto">
+                      Duis ac tellus et risus vulputate vehicle lobortis risus a elit <br/>
+                      <a href="https://sultan.com.br/blog/category/sono-perfeito/" class="sono" id="bem" >SONO PERFEITO</a>
+                     
+              	</a>
+                     
                     </h2>
-                    <a href="https://sultan.com.br/blog/category/bem-estar/" class="minhaCat" >BEM-ESTAR</a>
-
-
-                    <span class="posted-date">
-                      28 de janeiro de 2020	</span>
-                    <span class="comments-meta">
-                      <a href="https://sultan.com.br/blog/2020/01/28/como-a-decoracao-pode-estimular-a-criatividade-das-criancas/#respond" rel="nofollow" title="ComentarComo a decoração pode estimular a criatividade das crianças">
-                        0				</a>
-                      <i class="fa fa-comments-o"></i>
-                    </span>
                   </div>
                 </div>
 
@@ -443,24 +411,18 @@ function App() {
                 <div class="news-item layout-two">
                   <div class="news-thumb ">
                     <a href="https://sultan.com.br/blog/2020/01/28/cama-mesa-e-banho-7-dicas-para-o-melhor-uso-neste-verao/" title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão">
-                      <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/cama-mesa-e-banho.-7-dicas-para-o-melhor-uso-neste-verão-sultan.com_.br_-120x90.jpg" title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" alt="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" />
+                      <img src={cobertor_efeito} title="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" alt="Cama, mesa e banho. 7 dicas para o melhor uso neste verão" />
                     </a>
                   </div>
                   <div class="news-text-wrap">
-                    <h2>
-                      <a href="https://sultan.com.br/blog/2020/01/28/cama-mesa-e-banho-7-dicas-para-o-melhor-uso-neste-verao/">
-                        Cama, mesa e banho. 7 dicas para o melhor uso neste verão											</a>
+                    <h2 class="texto-mais-visto">
+                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="text-visto">
+                      Duis ac tellus et risus vulputate vehicle lobortis risus a elit <br/>
+                      <a href="https://sultan.com.br/blog/category/casa-e-decoracao/" class="casa" id="bem" >DECORAÇÃO</a>
+                     
+              	</a>
+                     
                     </h2>
-                    <a href="https://sultan.com.br/blog/category/bem-estar/" class="minhaCat" >BEM-ESTAR</a>
-
-
-                    <span class="posted-date">
-                      28 de janeiro de 2020	</span>
-                    <span class="comments-meta">
-                      <a href="https://sultan.com.br/blog/2020/01/28/cama-mesa-e-banho-7-dicas-para-o-melhor-uso-neste-verao/#respond" rel="nofollow" title="ComentarCama, mesa e banho. 7 dicas para o melhor uso neste verão">
-                        0				</a>
-                      <i class="fa fa-comments-o"></i>
-                    </span>
                   </div>
                 </div>
 
@@ -468,24 +430,18 @@ function App() {
                 <div class="news-item layout-two">
                   <div class="news-thumb ">
                     <a href="https://sultan.com.br/blog/2020/01/28/transforme-sua-maneira-de-dormir-em-uma-incrivel-experiencia-sensorial/" title="Transforme sua maneira de dormir em uma incrível experiência sensorial">
-                      <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/flowers-on-book-near-window-545032-120x90.jpg" title="Transforme sua maneira de dormir em uma incrível experiência sensorial" alt="Transforme sua maneira de dormir em uma incrível experiência sensorial" />
+                      <img src={cortina_cinza} title="Transforme sua maneira de dormir em uma incrível experiência sensorial" alt="Transforme sua maneira de dormir em uma incrível experiência sensorial" />
                     </a>
                   </div>
                   <div class="news-text-wrap">
-                    <h2>
-                      <a href="https://sultan.com.br/blog/2020/01/28/transforme-sua-maneira-de-dormir-em-uma-incrivel-experiencia-sensorial/">
-                        Transforme sua maneira de dormir em uma incrível experiência sensorial											</a>
+                    <h2 class="texto-mais-visto">
+                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="text-visto">
+                      Duis ac tellus et risus vulputate vehicle lobortis risus a elit <br/>
+                      <a href="https://sultan.com.br/blog/category/receber-bem/" class="receber" id="bem" >MESA E FESTA</a>
+                     
+              	</a>
+                     
                     </h2>
-                    <a href="https://sultan.com.br/blog/category/bem-estar/" class="minhaCat" >BEM-ESTAR</a>
-
-
-                    <span class="posted-date">
-                      28 de janeiro de 2020	</span>
-                    <span class="comments-meta">
-                      <a href="https://sultan.com.br/blog/2020/01/28/transforme-sua-maneira-de-dormir-em-uma-incrivel-experiencia-sensorial/#respond" rel="nofollow" title="ComentarTransforme sua maneira de dormir em uma incrível experiência sensorial">
-                        0				</a>
-                      <i class="fa fa-comments-o"></i>
-                    </span>
                   </div>
                 </div>
 
@@ -493,24 +449,18 @@ function App() {
                 <div class="news-item layout-two">
                   <div class="news-thumb ">
                     <a href="https://sultan.com.br/blog/2020/01/29/7-cuidados-ao-decorar-seu-ambiente-com-cortinas-e-tapetes/" title="7 cuidados ao decorar ambientes com cortinas e tapetes">
-                      <img src="https://sultan.com.br/blog/wp-content/uploads/2020/01/Cool-blue-coastal-living-room-920x9202-1-120x90.jpg" title="7 cuidados ao decorar ambientes com cortinas e tapetes" alt="7 cuidados ao decorar ambientes com cortinas e tapetes" />
+                      <img src={tapete_preto} title="7 cuidados ao decorar ambientes com cortinas e tapetes" alt="7 cuidados ao decorar ambientes com cortinas e tapetes" />
                     </a>
                   </div>
                   <div class="news-text-wrap">
-                    <h2>
-                      <a href="https://sultan.com.br/blog/2020/01/29/7-cuidados-ao-decorar-seu-ambiente-com-cortinas-e-tapetes/">
-                        7 cuidados ao decorar ambientes com cortinas e tapetes											</a>
+                    <h2 class="texto-mais-visto">
+                      <a href="https://sultan.com.br/blog/2020/02/20/saiba-quais-pecas-usar-para-montar-um-jogo-de-cama-completo/" class="text-visto">
+                      Duis ac tellus et risus vulputate vehicle lobortis risus a elit <br/>
+                      <a href="https://www.sultan.com.br/App/Images/icones/musica.png" class="musica" id="bem" >MÚSICAS</a>
+                     
+              	</a>
+                     
                     </h2>
-                    <a href="https://sultan.com.br/blog/category/bem-estar/" class="minhaCat" >BEM-ESTAR</a>
-
-
-                    <span class="posted-date">
-                      29 de janeiro de 2020	</span>
-                    <span class="comments-meta">
-                      <a href="https://sultan.com.br/blog/2020/01/29/7-cuidados-ao-decorar-seu-ambiente-com-cortinas-e-tapetes/#respond" rel="nofollow" title="Comentar7 cuidados ao decorar ambientes com cortinas e tapetes">
-                        0				</a>
-                      <i class="fa fa-comments-o"></i>
-                    </span>
                   </div>
                 </div>
 

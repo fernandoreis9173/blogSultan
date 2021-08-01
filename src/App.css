@@ -1,5 +1,6 @@
 #amarracao{
   display: flex;
+  padding: 35px;
 }
 .col-md-9{
   display: flex;
@@ -31,6 +32,7 @@
   background-color: #ECECEC;
   border-radius: 14px;
   padding: 20px;
+  margin-top: 20px;
 }
 .widget-title{
   text-align: left;
@@ -94,7 +96,8 @@
   display: block;
   padding: 5px;
   padding-left: 50px;
-  font-size: 19px;
+  font-size: 20px;
+    margin-left: 45px;
 }
 .widget-title {
   font-size: 18px;
@@ -105,8 +108,18 @@
   margin-bottom: 10px;
   text-transform: uppercase;
   display: inline-block;
-  text-align: center;
+  text-align: justify;
   padding: 0 15px;
+}
+.carta{
+  width: 40px;
+}
+.email{
+  color: #674F95;
+  width: 310px;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: normal;
 }
 
 .bem-estar{
@@ -261,7 +274,7 @@ a {
   display: inline-block;
 }
 .lorem{
-  width: 73%;
+  width: 75%;
     text-align: center;
     margin: 0 auto;
 }
@@ -287,6 +300,50 @@ a {
   background-color: #ececec !important;
   color: #64167B !important;
 } 
+
+.homepage{
+  background-image: url(https://sultan.com.br/blog/wp-content/uploads/2020/01/Banner-Com-Veto-Nova-Imagem-scaled.jpg);
+}
+
+.inscreva{
+  background-color: #674F95 !important;
+    border: 0;
+    border-radius: 40px;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 10px 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#temas{
+  width: 27% !important;
+}
+#maisvistos{
+  width: 32% !important;
+}
+.texto-mais-visto{
+  margin-top: 0px;
+}
+.text-visto{
+  position: inherit;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 21px;
+  color: #000000;
+}
+#bem{
+  font-weight: bold;
+    color: #64167B;
+    position: absolute;
+}
+#wds_container1_0 #wds_container2_0 #wds_image_id_0_6 .wds_slideshow_image_0 {
+  background-image: url(https://sultan.com.br/App/Images/icones/search.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
 #wds_container1_0 #wds_container2_0 {
   margin: 0px 0;
